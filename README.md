@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @vpriscilliaa
+- 👋 INTP / SCUEN / Type 8w9
 - 👀 I’m interested in React, React-Spring, Framer-Motion, Node, MongoDB, Express, GraphQL, Gatsby
 - 🌱 I’m currently learning Unreal Engine 4 / Autodesk Maya / SideFX Houdini
+- I have twin wyverns!
 - 📫 How to reach me my milkshake link:
 
 <!---
